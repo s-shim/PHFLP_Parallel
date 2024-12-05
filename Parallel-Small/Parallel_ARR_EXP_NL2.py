@@ -41,7 +41,7 @@ for fileName in ['M4_J05_I050_r3','M4_J10_I050_r5','M4_J15_I050_r8','M6_J05_I050
 
     iterations = 1
     # trials = 10000
-    timeLimit = 60 * 60 # seconds
+    timeLimit = 600 # seconds
     
     print()
     print('###### Randomized Rounding %s'%fileName,datetime.datetime.now())
